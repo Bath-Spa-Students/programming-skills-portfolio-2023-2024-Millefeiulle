@@ -8,4 +8,4 @@ r = float(input("Input the radius of the circle : "))
 area = pi * r ** 2
 
 # Show the result, including the radius and calculated area
-print("The area of the circle with radius " + str(r) + " is: " + str(area))
+print(" The area of the circle with radius " + str(r) + " is: " + str(area))
