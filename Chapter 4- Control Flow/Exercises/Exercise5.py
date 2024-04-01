@@ -1,5 +1,5 @@
 #Make a list of three favorite fruits and call it favorite_fruits.
-#Write five if statements. Each should check whether a certain kind of fruit is in the list. If the fruit is in the list, the if block should print a statement.
+#Write five if statements. Each should check whether a certain kind of fruit is in the list. If the fruit is then the if block should print a statement.
 favorite_fruits = ['mangoes', 'strawberries', 'peaches']
 
 if 'oranges' in favorite_fruits:
