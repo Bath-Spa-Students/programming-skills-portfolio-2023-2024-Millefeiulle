@@ -17,7 +17,7 @@ print(f"\n{word.title()}: {glossary[word]}")
 word = 'list'
 print(f"\n{word.title()}: {glossary[word]}")
 
-word = 'loop'
+word = 'control flow'
 print(f"\n{word.title()}: {glossary[word]}")
 
 word = 'dictionary'
